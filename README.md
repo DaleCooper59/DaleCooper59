@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaleCooper59
 - 👀 I’m interested in learning about programmation
-- 🌱 I’m currently learning Javascript and a little bit of Php for form 
+- 🌱 I’m currently learning Javascript, SQL, PHP, and more ... I'm in a formation
 - 💞️ I’m looking to collaborate on meet new people and get more and more experiences
 - 📫 How to reach me : duvinagechristopher1@gmail.com or my Linkedin or here
 
